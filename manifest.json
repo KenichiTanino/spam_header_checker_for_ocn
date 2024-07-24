@@ -3,7 +3,7 @@
     "applications": {
         "gecko": {
             "id": "kenichi-tanino-Thunderbird-addon-ocnspam@a2.mbn.or.jp",
-            "strict_min_version": "128.0"
+            "strict_min_version": "122.0"
         }
     },
     "name": "SPAM Check for OCN",
