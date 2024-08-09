@@ -17,8 +17,6 @@
 
 To install this add-on, Please visit the following page.
 
-in progress.
-
 # Requirement
 
 - Tunderbird version 78 or later
@@ -33,6 +31,10 @@ in progress.
 Although it is for OCN, it is not related to OCN. Please do not ask questions to OCN about this plugin.
 
 # History
+
+## v0.6.0
+
+- update for Thunderbird 122
 
 ## v0.5.0
 
