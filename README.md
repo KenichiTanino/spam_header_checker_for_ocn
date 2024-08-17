@@ -12,16 +12,15 @@
 - The following optional features are available
   - Checks for new "received" mail. (Default OFF)
   - Perform mail checking on the entire folder when a folder is selected (default OFF).
+- If the header information of the sender-id and dkim methods in the Authentication-Results header is “.cn”, it is marked as "spam".
 
 # Installing
 
 To install this add-on, Please visit the following page.
 
-in progress.
-
 # Requirement
 
-- Tunderbird version 78 or later
+- Tunderbird version 128 or later
 
 # Author
 
@@ -33,6 +32,11 @@ in progress.
 Although it is for OCN, it is not related to OCN. Please do not ask questions to OCN about this plugin.
 
 # History
+
+## v0.7.0
+
+- upgrade to Thunderbird 128
+- add ".cn" header check
 
 ## v0.5.0
 
