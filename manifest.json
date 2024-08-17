@@ -1,14 +1,14 @@
 {
-    "manifest_version": 2,
-    "applications": {
+    "manifest_version": 3,
+    "browser_specific_settings": {
         "gecko": {
             "id": "kenichi-tanino-Thunderbird-addon-ocnspam@a2.mbn.or.jp",
-            "strict_min_version": "78.0"
+            "strict_min_version": "128.0"
         }
     },
     "name": "SPAM Check for OCN",
     "description": "SPAM Header Checker for OCN(Japanese Internet Provider)",
-    "version": "0.5.0",
+    "version": "0.7.0",
     "author": "Kenichi Tanino",
     "icons": {
         "48": "icons/spam_mail_48x48.png"
@@ -19,13 +19,13 @@
     },
     "permissions": [
         "messagesRead",
+        "messagesUpdate",
         "accountsRead",
         "accountsFolders",
         "storage"
     ],
     "options_ui": {
         "page": "options/options.html",
-        "open_in_tab": false,
-        "browser_style": true
+        "open_in_tab": false
     }
 }
