@@ -8,7 +8,7 @@
     },
     "name": "SPAM Check for OCN",
     "description": "SPAM Header Checker for OCN(Japanese Internet Provider)",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "author": "Kenichi Tanino",
     "icons": {
         "48": "icons/spam_mail_48x48.png"
