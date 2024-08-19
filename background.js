@@ -67,8 +67,8 @@ async function check_message_junked(message) {
     }
   }
   if (is_junk == true) {
-    console.log("junked: ");
-    console.log(message);
+    // console.log("junked: ");
+    // console.log(message);
     let update_message = {
       junk: true
     };
