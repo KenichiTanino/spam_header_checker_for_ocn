@@ -33,6 +33,10 @@ Although it is for OCN, it is not related to OCN. Please do not ask questions to
 
 # History
 
+## v0.7.1
+
+- removed console.log at junk marked
+
 ## v0.7.0
 
 - upgrade to Thunderbird 128
